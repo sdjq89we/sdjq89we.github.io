@@ -1,6 +1,7 @@
 # My Coding Notebook
 
 ## Table of Contents
+[Flutter Definitions](#flutter_definitions)
 - [Day 1](#day-1)
   - [Notes](#notes)
   - [Practice](#practice)
